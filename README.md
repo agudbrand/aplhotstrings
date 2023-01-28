@@ -15,14 +15,11 @@ Following is a table of all compositions provided by the script
 | <- | ← | 
 | xx | × | 
 | :- | ÷ | 
-| *O | ⍟ | 
-| [- | ⌹ |
-| -] | ⌹ |
+| \*O | ⍟ | 
+| [- or -] | ⌹ |
 | OO | ○ |
-| 77 | ⌈ |
-| FF | ⌈ |
-| ll | ⌊ |
-| LL | ⌊ |
+| 77 or FF | ⌈ |
+| ll or LL | ⌊ |
 | \|_ | ⊥ |
 | TT | ⊤ |
 | -\| | ⊣ |
@@ -32,8 +29,7 @@ Following is a table of all compositions provided by the script
 | >_ | ≥ |
 | == | ≡ |
 | =_ | ≡ |
-| 7= | ≢ |
-| Z- | ≢ |
+| 7= or Z- | ≢ |
 | vv | ∨ |
 | \^\^ | ∧ |
 | \^~ | ⍲ |
@@ -43,8 +39,7 @@ Following is a table of all compositions provided by the script
 | cc | ⊂ |
 | )) | ⊃ |
 | c_ | ⊆ |
-| [\| | ⌷ |
-| \|] | ⌷ |
+| \[\| or \|] | ⌷ |
 | A\| | ⍋ |
 | V\| | ⍒ |
 | ii | ⍳ |
@@ -56,27 +51,21 @@ Following is a table of all compositions provided by the script
 | /- | ⌿ |
 | \\- |⍀  |
 | ,- | ⍪ |
-| rr | ⍴ |
-| pp | ⍴ |
+| rr or pp | ⍴ |
 | O| | ⌽ |
 | O- | ⊖ |
 | O\\ |⍉  |
-| :: | ¨ |
-| "" | ¨ |
+| :: or "" | ¨ |
 | ~: | ⍨ |
-| *: | ⍣ |
+| \*: | ⍣ |
 | oo | ∘ |
 | o: | ⍤ |
 | O: | ⍥ |
-| [] | ⎕ |
-| [: | ⍠ |
-| :] | ⍠ |
-| [= | ⌸ |
-| =] | ⌸ |
-| [< | ⌺ |
-| >] | ⌺ |
-| T_ | ⌶ |
-| II | ⌶ |
+| \[] | ⎕ |
+| \[: or :] | ⍠ |
+| \[= or =] | ⌸ |
+| \[< or >] | ⌺ |
+| T_ or II | ⌶ |
 | o_ | ⍎ |
 | o- | ⍕ |
 | To | ⍕ |
